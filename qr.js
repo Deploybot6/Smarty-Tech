@@ -63,8 +63,8 @@ router.get('/', async (req, res) => {
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍𝙎』
-║ ❒ *FAMOUS-TECH* : https://wa.me/50940804440
-║ ❒ FAMOUS-TECH* : https://wa.me/50941695706
+║ ❒ *SMARTY-TECH* : https://wa.me/50940804440
+║ ❒ *SMARTY-TECH* : https://wa.me/50941695706
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 •••』
