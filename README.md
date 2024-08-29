@@ -44,4 +44,5 @@ Refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for more details on contributing, i
 ## 🅳🅴🅿︎🅻🅾︎🆈 🅼🅴🆃🅷🅾︎🅳 ☻︎
 𝐷𝐸𝑃𝐿𝑂𝑌 𝑂𝑁 𝑅𝐸𝑃𝐿𝐼𝑇 ☟
 <p align=""><a href="https://repl.it/github/Deploybot6/Smarty-Tech"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
-sᴍᴀʀᴛʏ-ᴛᴇᴄʜ
+
+  sᴍᴀʀᴛʏ-ᴛᴇᴄʜ
